@@ -34,4 +34,4 @@ Aplicație web pentru gestionarea unui hotel (camere, rezervări, contact), cu r
 - `htmlspecialchars()` la afișare (protecție XSS)
 
 ## Live Demo
-- [(pune aici linkul de hosting)](https://hotel-meriot.infinityfreeapp.com/)
+- https://hotel-meriot.infinityfreeapp.com/
