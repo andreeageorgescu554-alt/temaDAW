@@ -24,7 +24,7 @@ Aplicație web pentru gestionarea unui hotel (camere, rezervări, contact), cu r
 
 ## Instalare (local)
 1. Importă baza de date (SQL)
-2. Copiază `includes/db.example.php` → `includes/db.php` și completează credențialele
+2. Copiază `includes/db.php` și completează cu credențialele tale
 3. Deschide în browser: `http://localhost/hotel/`
 
 ## Securitate
