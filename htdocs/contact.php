@@ -2,8 +2,9 @@
 require_once "includes/db.php";
 require_once "includes/security.php";
 
-$SITE_KEY   = " 6LdJ30wsAAAAAGAmiVA1wXFdzXeHIaXxp5-kZOdO";
-$SECRET_KEY = "6LdJ30wsAAAAAIXVQ3pacfRIparaGdHihHzMrdZf";
+//pui credentialele tale
+$SITE_KEY   = " site_key";
+$SECRET_KEY = "secret_key";
 
 $errors = [];
 $success = "";
