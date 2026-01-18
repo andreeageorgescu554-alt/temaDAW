@@ -64,6 +64,7 @@ body {
 <ul>
   <li><a href="rooms_list.php">Gestionare camere</a></li>
   <li><a href="reservations_list.php">Gestionare rezervări</a></li>
+  <li><a href="export_reservations_csv">Descarca raport</a></li>
   <li><a href="messages_list.php">Mesaje contact</a></li>
 </ul>
 
